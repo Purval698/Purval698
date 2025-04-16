@@ -6,7 +6,7 @@
 - 👯 I’m open to collaborating on data-driven projects and solving real-world problems.
 - 💬 Ask me about **data analysis, data visualization, or how to turn raw data into actionable insights**.
   
-- 📫 How to reach me: [Email](mailto: purvalkamble608@gmail.com) | [LinkedIn](https://www.linkedin.com/in/purval-k-51a81a1b5/)
+- 📫 How to reach me: [Email](mailto: purvalkamble608@gmail.com) | [LinkedIn](https://www.linkedin.com/in/purval-kamble-51a81a1b5/)
 
 ## Tech Stack
 - Python

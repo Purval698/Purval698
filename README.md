@@ -15,7 +15,6 @@
 - Data Warehousing
 - T-SQL
 - AWS 
-- Machine Learning Libraries (e.g., Scikit-learn)
 
 ## Projects
 - **Hospital Performance Dashboard** (https://github.com/Purval698/Hospital-Performance-Dashboard-Project)
